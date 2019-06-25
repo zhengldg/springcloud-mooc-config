@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: lewis
+    password: root
     url: jdbc:mysql://192.168.2.100:3306/springcloud_sells?useUnicode=true&characterEncoding=UTF-8
 env:
   dev
